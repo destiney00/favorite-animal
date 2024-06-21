@@ -1,1 +1,1 @@
-Check out my website: <a href="https://github.com/destiney00/favorite-animal" target="_blank"> link </a> 
+Check out my website: <a href="file:///Users/member/Desktop/VS%20Code/favorite-animal/index.html" target="_blank"> link </a> 
